@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %} MTask {% endblock title %}</title>
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="container">
+                <a href="{% url 'home' %}">
+                    <img src="{% static 'img/mbos_logo.png' %}" class="mbos_logo" alt="mbos_logo">
+                </a>
+                <ul>
+                    <li><a href="{% url 'home' %}">Bosh sahifa</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    {% block content %}
+    {% endblock content %}
+</body>
+</html>

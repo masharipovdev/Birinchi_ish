@@ -1,0 +1,1447 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.cover-3Sy {
+  width: 100%;
+  height: 96rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #2b1887;
+  border-radius: 2.4rem;
+}
+.cover-3Sy .tasks-x49 {
+  width: 109.7rem;
+  height: 144.4rem;
+  position: absolute;
+  left: 66.3rem;
+  top: 8rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #2b1887;
+  border-radius: 3.2rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ {
+  margin-right: 4rem;
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 52.85rem;
+  row-gap: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #d4ccff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .frame-6-wRs {
+  margin-right: 32.75rem;
+  box-sizing: border-box;
+  padding-left: 0.75rem;
+  width: calc(100% - 32.75rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .frame-6-wRs .icon-3jo {
+  margin-right: 2.35rem;
+  width: 2.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .frame-6-wRs .to-do-xLy {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .my-task-nau {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX {
+  width: 100%;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF {
+  margin-right: 24.35rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF .due-date-aFs {
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e42c5f;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF .auto-group-dm77-m5T {
+  box-sizing: border-box;
+  padding: 1.15rem 0rem 1.15rem 1.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF .auto-group-dm77-m5T .rectangle-1-e9F {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF .auto-group-dm77-m5T .rectangle-1-vcZ {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .priority-effort-TBF .auto-group-dm77-m5T .rectangle-1-TMb {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-4Q1 .frame-1-ufX .project-or-client-jpu {
+  margin-top: 0.1rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .my-task-Vhb {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw {
+  margin: 0.35rem 23.15rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .auto-group-2fn1-Grm {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .auto-group-2fn1-Grm .due-date-be9 {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ebb800;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .auto-group-2fn1-Grm .due-date-be9 .mon-wi1 {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .auto-group-2fn1-Grm .due-date-be9 .rectangle-1-dKw {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .auto-group-2fn1-Grm .rectangle-1-2ss {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .priority-effort-AHw .rectangle-1-7uK {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-b6R .frame-1-Cc1 .project-or-client-yRj {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .my-task-cjb {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM {
+  margin: 0.35rem 29.45rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .auto-group-gsrp-ct1 {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .auto-group-gsrp-ct1 .due-date-MKo {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e42c5f;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .auto-group-gsrp-ct1 .due-date-MKo .mon-EeV {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .auto-group-gsrp-ct1 .due-date-MKo .rectangle-1-Xdb {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .auto-group-gsrp-ct1 .rectangle-1-1of {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .priority-effort-gzM .rectangle-1-WkR {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-3-EGZ .task-HSR .frame-1-Xbf .project-or-client-RsP {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 52.85rem;
+  height: 100%;
+  row-gap: 2.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d4ccff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .frame-7-QUR {
+  margin-right: 34.25rem;
+  box-sizing: border-box;
+  padding-left: 0.75rem;
+  width: calc(100% - 34.25rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .frame-7-QUR .icon-77w {
+  margin-right: 2.35rem;
+  width: 2.5rem;
+  height: 3.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .frame-7-QUR .done-SR7 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .my-task-HAq {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR {
+  margin: 0.35rem 24.55rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .auto-group-vefs-Ha9 {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .auto-group-vefs-Ha9 .due-date-CSD {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2d41a7;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .auto-group-vefs-Ha9 .due-date-CSD .mon-iQZ {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .auto-group-vefs-Ha9 .due-date-CSD .rectangle-1-nQR {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #2d41a7;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .auto-group-vefs-Ha9 .rectangle-1-fUD {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #2d41a7;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .priority-effort-AkR .rectangle-1-yUu {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Zkd .frame-1-QmF .project-or-client-3Ds {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .my-task-H8D {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ {
+  margin: 0.35rem 24.45rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .auto-group-iznm-sMK {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .auto-group-iznm-sMK .due-date-nz5 {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ebb800;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .auto-group-iznm-sMK .due-date-nz5 .mon-hLM {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .auto-group-iznm-sMK .due-date-nz5 .rectangle-1-bAq {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .auto-group-iznm-sMK .rectangle-1-GXs {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .priority-effort-wiZ .rectangle-1-7YV {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-MEZ .frame-1-zHX .project-or-client-END {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .my-task-46M {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM {
+  margin: 0.35rem 24.45rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .auto-group-qms7-nwT {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .auto-group-qms7-nwT .due-date-Y9w {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ebb800;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .auto-group-qms7-nwT .due-date-Y9w .mon-fVT {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .auto-group-qms7-nwT .due-date-Y9w .rectangle-1-kG1 {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .auto-group-qms7-nwT .rectangle-1-FCm {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .priority-effort-5GM .rectangle-1-7Ey {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-X6R .frame-1-mFf .project-or-client-2cq {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .my-task-fA1 {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R {
+  margin: 0.35rem 25.95rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .auto-group-dhzb-toT {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .auto-group-dhzb-toT .due-date-QG1 {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ebb800;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .auto-group-dhzb-toT .due-date-QG1 .mon-KNy {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .auto-group-dhzb-toT .due-date-QG1 .rectangle-1-CSm {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .auto-group-dhzb-toT .rectangle-1-HUD {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .priority-effort-N4R .rectangle-1-bUu {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-M9K .frame-1-zxy .project-or-client-HsX {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m {
+  box-sizing: border-box;
+  padding: 2.4rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .my-task-jjX {
+  margin: 0rem 3.35rem 1.5rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP {
+  width: 100%;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho {
+  margin-right: 24.35rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho .due-date-w4u {
+  width: 4.8rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2d41a7;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho .auto-group-8ec9-nrD {
+  box-sizing: border-box;
+  padding: 1.15rem 0rem 1.15rem 1.2rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho .auto-group-8ec9-nrD .rectangle-1-hyB {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #2d41a7;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho .auto-group-8ec9-nrD .rectangle-1-omK {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .priority-effort-nho .auto-group-8ec9-nrD .rectangle-1-VPF {
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-p6m .frame-1-ERP .project-or-client-zL1 {
+  margin-top: 0.1rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .my-task-ap1 {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd {
+  margin: 0.35rem 29.45rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .auto-group-maqr-ZZT {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .auto-group-maqr-ZZT .due-date-Gyf {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2d41a7;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .auto-group-maqr-ZZT .due-date-Gyf .mon-2C9 {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .auto-group-maqr-ZZT .due-date-Gyf .rectangle-1-syT {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #2d41a7;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .auto-group-maqr-ZZT .rectangle-1-wCd {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .priority-effort-rWd .rectangle-1-1iH {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-TjP .frame-1-6XT .project-or-client-Kiy {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  height: 12.6rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .my-task-VWy {
+  margin: 0rem 4.75rem 1.5rem 0rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j {
+  margin: 0.35rem 27.35rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .auto-group-wjrj-TcD {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .auto-group-wjrj-TcD .due-date-NUH {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ebb800;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .auto-group-wjrj-TcD .due-date-NUH .mon-WaV {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .auto-group-wjrj-TcD .due-date-NUH .rectangle-1-BwX {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .auto-group-wjrj-TcD .rectangle-1-51K {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .priority-effort-95j .rectangle-1-wZK {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #ebb800;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-CXs .frame-1-yww .project-or-client-fER {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .my-task-ftd {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV {
+  margin: 0.35rem 25.95rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .auto-group-egkh-f1T {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .auto-group-egkh-f1T .due-date-NwT {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e42c5f;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .auto-group-egkh-f1T .due-date-NwT .mon-89w {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .auto-group-egkh-f1T .due-date-NwT .rectangle-1-Be1 {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .auto-group-egkh-f1T .rectangle-1-HS9 {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .priority-effort-jtV .rectangle-1-nth {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-yF7 .frame-1-akh .project-or-client-qry {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .my-task-qEh {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK {
+  margin: 0.35rem 24.25rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .auto-group-6uam-FZK {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .auto-group-6uam-FZK .due-date-oKw {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #e42c5f;
+  border-radius: 0.8rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .auto-group-6uam-FZK .due-date-oKw .mon-JnV {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .auto-group-6uam-FZK .due-date-oKw .rectangle-1-DeZ {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .auto-group-6uam-FZK .rectangle-1-uGV {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .priority-effort-XdK .rectangle-1-QU9 {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .tasks-x49 .frame-5-JAV .task-Kn9 .frame-1-ZwP .project-or-client-gwT {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd {
+  box-sizing: border-box;
+  padding: 5.414rem 5.414rem 5.414rem 5.414rem;
+  width: 98.5848rem;
+  height: 29.3476rem;
+  position: absolute;
+  left: 8.6rem;
+  top: 54.1rem;
+  border: solid 1.6rem #2b1887;
+  background-color: #f4f2ff;
+  border-radius: 2.7071rem;
+}
+.cover-3Sy .task-tnd .my-task-yJH {
+  margin-bottom: 3.5095rem;
+  font-size: 5.4143rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .task-tnd .frame-1-suT {
+  width: 100%;
+  height: 7.9095rem;
+  display: flex;
+  align-items: center;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq {
+  margin-right: 21.8825rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq .due-date-A7s {
+  width: 10.7095rem;
+  height: 100%;
+  font-size: 3.6095rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e42c5f;
+  border-radius: 1.8048rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq .auto-group-4bys-qzh {
+  box-sizing: border-box;
+  padding: 2.601rem 0rem 2.601rem 2.707rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq .auto-group-4bys-qzh .rectangle-1-9Vb {
+  margin-right: 2.7071rem;
+  width: 5.4143rem;
+  height: 2.7071rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.9024rem 0.9024rem 5.4143rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq .auto-group-4bys-qzh .rectangle-1-GKK {
+  margin-right: 2.7071rem;
+  width: 5.4143rem;
+  height: 2.7071rem;
+  background-color: #e42c5f;
+  border-radius: 0 0.9024rem 0.9024rem 5.4143rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .priority-effort-dNq .auto-group-4bys-qzh .rectangle-1-b6h {
+  width: 5.4143rem;
+  height: 2.7071rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.9024rem 0.9024rem 5.4143rem;
+  flex-shrink: 0;
+}
+.cover-3Sy .task-tnd .frame-1-suT .project-or-client-UAV {
+  margin-top: 0.1rem;
+  text-align: right;
+  font-size: 5.4143rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .frame-20-k81 {
+  box-sizing: border-box;
+  padding-top: 0.55rem;
+  width: 45.3rem;
+  height: 40.5rem;
+  position: absolute;
+  left: 8rem;
+  top: 8rem;
+}
+.cover-3Sy .frame-20-k81 .heroicons-solid-document-check-o6H {
+  margin: 0rem 0rem 2.95rem 1.375rem;
+  width: 6.05rem;
+  height: 7.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.cover-3Sy .frame-20-k81 .to-do-list-Joj {
+  margin-bottom: 2.3rem;
+  font-size: 9rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.cover-3Sy .frame-20-k81 .frame-19-EhP {
+  margin: 0rem 3.1rem 2.4rem 0rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 0.6rem;
+  width: calc(100% - 3.1rem);
+  display: flex;
+  align-items: center;
+}
+.cover-3Sy .frame-20-k81 .frame-19-EhP .heroicons-solid-check-circle-825 {
+  margin: 0rem 3rem 0.1rem 0rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-3Sy .frame-20-k81 .frame-19-EhP .figma-variants-1rZ {
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.cover-3Sy .frame-20-k81 .frame-18-jnZ {
+  margin-right: 9.1rem;
+  box-sizing: border-box;
+  padding: 0.1rem 0rem 0rem 0.6rem;
+  width: calc(100% - 9.1rem);
+  display: flex;
+  align-items: center;
+}
+.cover-3Sy .frame-20-k81 .frame-18-jnZ .heroicons-solid-check-circle-dd3 {
+  margin: 0rem 3rem 0.1rem 0rem;
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.cover-3Sy .frame-20-k81 .frame-18-jnZ .auto-layout-MJ9 {
+  font-size: 4.8rem;
+  font-weight: 500;
+  line-height: 1.3025;
+  color: #ffffff;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,1408 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 124.1rem;
+}.tasks-1Ny {
+  padding: 4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  background-color: #2b1887;
+  border-radius: 3.2rem;
+  box-sizing: border-box;
+
+  .frame-6-Pnq {
+    padding: 2.4rem;
+    display: flex;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    width: 56.05rem;
+    row-gap: 2.4rem;
+    flex-direction: column;
+    background-color: #d4ccff;
+    border-radius: 1.6rem;
+    margin-right: 4rem;
+
+    .frame-6-273 {
+      margin-right: 35.95rem;
+      box-sizing: border-box;
+      padding-left: 0.75rem;
+      width: calc(100% - 35.95rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .icon-cb3 {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2.35rem;
+        width: 2.5rem;
+        height: 3.25rem;
+      }
+      .to-do-Gfb {
+        line-height: 1.3025;
+        color: #2b1887;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3.2rem;
+        font-weight: 700;
+      }
+    }
+    .task-tgy {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem;
+
+      .my-task-RB7 {
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+      }
+      .frame-1-3yB {
+        flex-shrink: 0;
+        width: 100%;
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+
+        .priority-effort-jLD {
+          align-items: center;
+          flex-shrink: 0;
+          margin-right: 22.85rem;
+          height: 100%;
+          display: flex;
+
+          .due-date-Riq {
+            height: 100%;
+            display: flex;
+            align-items: center;
+            color: #ffffff;
+            flex-shrink: 0;
+            width: 3.4rem;
+            font-size: 1.6rem;
+            font-weight: 600;
+            background-color: #ebb800;
+            border-radius: 0.8rem;
+            line-height: 1.2575;
+            font-family: SF Pro Display, 'Source Sans Pro';
+            white-space: nowrap;
+            justify-content: center;
+          }
+          .auto-group-9sev-6Ed {
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.15rem 0rem 1.15rem 1.2rem;
+            height: 100%;
+            display: flex;
+            column-gap: 1.2rem;
+
+            .rectangle-1-p4h {
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+            }
+            .rectangle-1-piu {
+              height: 1.2rem;
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+            }
+            .rectangle-1-4t9 {
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+            }
+          }
+        }
+        .project-or-client-cYH {
+          flex-shrink: 0;
+          margin-top: 0.1rem;
+          font-size: 2.4rem;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          text-align: right;
+          font-weight: 400;
+          white-space: nowrap;
+        }
+      }
+    }
+    .task-Nfs {
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+
+      .my-task-Exy {
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+      }
+      .frame-1-KzR {
+        align-items: center;
+        flex-shrink: 0;
+        width: 100%;
+        height: 3.5rem;
+        display: flex;
+
+        .priority-effort-FdB {
+          margin-right: 20.25rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .due-date-NSu {
+            font-family: SF Pro Display, 'Source Sans Pro';
+            align-items: center;
+            justify-content: center;
+            border-radius: 0.8rem;
+            width: 4.9rem;
+            height: 100%;
+            font-weight: 600;
+            line-height: 1.2575;
+            white-space: nowrap;
+            display: flex;
+            flex-shrink: 0;
+            font-size: 1.6rem;
+            color: #ffffff;
+            background-color: #ebb800;
+          }
+          .auto-group-j3nh-WBj {
+            box-sizing: border-box;
+            padding: 1.15rem 0rem 1.15rem 1.2rem;
+            height: 100%;
+            display: flex;
+            column-gap: 1.2rem;
+            align-items: center;
+            flex-shrink: 0;
+
+            .rectangle-1-XsX {
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+            }
+            .rectangle-1-nHf {
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+            }
+            .rectangle-1-sK7 {
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+            }
+          }
+        }
+        .project-or-client-voB {
+          text-align: right;
+          line-height: 1.3025;
+          white-space: nowrap;
+          font-family: DM Sans, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-top: 0.1rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          color: #2b1887;
+        }
+      }
+    }
+  }
+  .frame-7-Sf3 {
+    flex-direction: column;
+    background-color: #d4ccff;
+    flex-shrink: 0;
+    width: 56.05rem;
+    row-gap: 2.4rem;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    padding: 2.4rem;
+    height: 175.2rem;
+    border-radius: 1.6rem;
+
+    .frame-7-9xm {
+      width: calc(100% - 37.45rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin-right: 37.45rem;
+      box-sizing: border-box;
+      padding-left: 0.75rem;
+
+      .icon-eed {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2.35rem;
+        width: 2.5rem;
+        height: 3.25rem;
+      }
+      .done-SKb {
+        flex-shrink: 0;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #2b1887;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .task-wXF {
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+
+      .my-task-U1P {
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+      }
+      .frame-1-Z2q {
+        width: 100%;
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .priority-effort-e4H {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin-right: 27.55rem;
+          height: 100%;
+
+          .due-date-A2d {
+            background-color: #e42c5f;
+            font-family: SF Pro Display, 'Source Sans Pro';
+            display: flex;
+            align-items: center;
+            border-radius: 0.8rem;
+            font-size: 1.6rem;
+            line-height: 1.2575;
+            color: #ffffff;
+            white-space: nowrap;
+            width: 4.8rem;
+            font-weight: 600;
+            flex-shrink: 0;
+            height: 100%;
+            justify-content: center;
+          }
+          .auto-group-gohk-WVo {
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+            padding: 1.15rem 0rem 1.15rem 1.2rem;
+            height: 100%;
+            display: flex;
+            column-gap: 1.2rem;
+
+            .rectangle-1-Nnu {
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #e42c5f;
+            }
+            .rectangle-1-3e9 {
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #e42c5f;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+            }
+            .rectangle-1-fSZ {
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+            }
+          }
+        }
+        .project-or-client-FQm {
+          font-family: DM Sans, 'Source Sans Pro';
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          margin-top: 0.1rem;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .task-NXK {
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+
+      .my-task-G6u {
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+      }
+      .frame-1-mpM {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .priority-effort-ggR {
+          flex-shrink: 0;
+          margin: 0.35rem 32.65rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+          align-items: center;
+
+          .auto-group-visu-yfX {
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+
+            .due-date-1s7 {
+              left: 0;
+              top: 0;
+              background-color: #e42c5f;
+              border-radius: 0.8rem;
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+
+              .mon-xGZ {
+                width: 3rem;
+                position: absolute;
+                font-size: 1.6rem;
+                font-weight: 600;
+                color: #ffffff;
+                white-space: nowrap;
+                height: 2.1rem;
+                left: 0.8rem;
+                top: 0.8rem;
+                line-height: 1.2575;
+                font-family: SF Pro Display, 'Source Sans Pro';
+              }
+              .rectangle-1-NLH {
+                width: 2.4rem;
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #e42c5f;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+              }
+            }
+            .rectangle-1-TsX {
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #e42c5f;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+            }
+          }
+          .rectangle-1-LwK {
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .project-or-client-aam {
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .task-5XX {
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .my-task-Yvu {
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .frame-1-rRo {
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        width: 100%;
+
+        .priority-effort-zY1 {
+          margin: 0.35rem 27.75rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-vtyu-53f {
+            flex-shrink: 0;
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+            position: relative;
+
+            .due-date-oEZ {
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #2d41a7;
+              border-radius: 0.8rem;
+
+              .mon-sVK {
+                white-space: nowrap;
+                height: 2.1rem;
+                position: absolute;
+                font-size: 1.6rem;
+                line-height: 1.2575;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                width: 3rem;
+                left: 0.8rem;
+                top: 0.8rem;
+                font-weight: 600;
+                color: #ffffff;
+              }
+              .rectangle-1-ikq {
+                left: 0;
+                top: 0.6rem;
+                background-color: #2d41a7;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+                width: 2.4rem;
+                height: 1.2rem;
+                position: absolute;
+              }
+            }
+            .rectangle-1-bJq {
+              background-color: #2d41a7;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+            }
+          }
+          .rectangle-1-g5P {
+            flex-shrink: 0;
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+          }
+        }
+        .project-or-client-nPK {
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+        }
+      }
+    }
+    .task-W4R {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+
+      .my-task-kUZ {
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+      }
+      .frame-1-f5j {
+        align-items: flex-start;
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+
+        .priority-effort-D7F {
+          margin: 0.35rem 27.65rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-kpxs-KAH {
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+
+            .due-date-2Kb {
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #ebb800;
+              border-radius: 0.8rem;
+
+              .mon-J2D {
+                width: 3rem;
+                height: 2.1rem;
+                left: 0.8rem;
+                line-height: 1.2575;
+                color: #ffffff;
+                white-space: nowrap;
+                position: absolute;
+                top: 0.8rem;
+                font-size: 1.6rem;
+                font-weight: 600;
+                font-family: SF Pro Display, 'Source Sans Pro';
+              }
+              .rectangle-1-zfj {
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #ebb800;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+                width: 2.4rem;
+              }
+            }
+            .rectangle-1-ch7 {
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+            }
+          }
+          .rectangle-1-vSu {
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .project-or-client-RPf {
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .task-WR7 {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem;
+
+      .my-task-TLM {
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .frame-1-9ys {
+        width: 100%;
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+
+        .priority-effort-7A1 {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin-right: 21.65rem;
+          height: 100%;
+
+          .due-date-dPF {
+            display: flex;
+            background-color: #2d41a7;
+            color: #ffffff;
+            font-family: SF Pro Display, 'Source Sans Pro';
+            border-radius: 0.8rem;
+            font-size: 1.6rem;
+            white-space: nowrap;
+            flex-shrink: 0;
+            line-height: 1.2575;
+            align-items: center;
+            font-weight: 600;
+            justify-content: center;
+            width: 4.8rem;
+            height: 100%;
+          }
+          .auto-group-244q-pTj {
+            box-sizing: border-box;
+            padding: 1.15rem 0rem 1.15rem 1.2rem;
+            height: 100%;
+            display: flex;
+            column-gap: 1.2rem;
+            align-items: center;
+            flex-shrink: 0;
+
+            .rectangle-1-7xd {
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #2d41a7;
+            }
+            .rectangle-1-o4m {
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+            }
+            .rectangle-1-tM7 {
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+            }
+          }
+        }
+        .project-or-client-1Aq {
+          margin-top: 0.1rem;
+          text-align: right;
+          color: #2b1887;
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          font-family: DM Sans, 'Source Sans Pro';
+        }
+      }
+    }
+    .task-PBP {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+
+      .my-task-uQd {
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .frame-1-SQZ {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .priority-effort-nzD {
+          margin: 0.35rem 29.15rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-n58m-djw {
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+
+            .due-date-mr9 {
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #ebb800;
+              border-radius: 0.8rem;
+
+              .mon-Kcm {
+                width: 3rem;
+                height: 2.1rem;
+                left: 0.8rem;
+                top: 0.8rem;
+                font-size: 1.6rem;
+                font-weight: 600;
+                color: #ffffff;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                white-space: nowrap;
+                position: absolute;
+                line-height: 1.2575;
+              }
+              .rectangle-1-MJZ {
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #ebb800;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+                width: 2.4rem;
+              }
+            }
+            .rectangle-1-dG5 {
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+            }
+          }
+          .rectangle-1-uzH {
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .project-or-client-2JD {
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+        }
+      }
+    }
+    .task-iRw {
+      padding: 2.4rem;
+      display: flex;
+      flex-direction: column;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      align-items: center;
+      background-color: #f4f2ff;
+      width: 100%;
+
+      .my-task-qWZ {
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 6.55rem 1.5rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+      }
+      .frame-1-9GM {
+        height: 3.5rem;
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        width: 100%;
+
+        .priority-effort-4PK {
+          margin-right: 27.55rem;
+          height: 100%;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .due-date-znm {
+            font-family: SF Pro Display, 'Source Sans Pro';
+            white-space: nowrap;
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+            width: 4.8rem;
+            font-size: 1.6rem;
+            line-height: 1.2575;
+            justify-content: center;
+            border-radius: 0.8rem;
+            color: #ffffff;
+            background-color: #2d41a7;
+            height: 100%;
+            font-weight: 600;
+          }
+          .auto-group-kns5-RdB {
+            padding: 1.15rem 0rem 1.15rem 1.2rem;
+            height: 100%;
+            display: flex;
+            column-gap: 1.2rem;
+            align-items: center;
+            flex-shrink: 0;
+            box-sizing: border-box;
+
+            .rectangle-1-LVF {
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #2d41a7;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+            }
+            .rectangle-1-chf {
+              width: 2.4rem;
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+            }
+            .rectangle-1-k3B {
+              height: 1.2rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              flex-shrink: 0;
+              width: 2.4rem;
+            }
+          }
+        }
+        .project-or-client-Fkd {
+          margin-top: 0.1rem;
+          font-size: 2.4rem;
+          font-weight: 400;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          text-align: right;
+          line-height: 1.3025;
+          color: #2b1887;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .task-5Ds {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+
+      .my-task-9Ud {
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+      }
+      .frame-1-UG1 {
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+
+        .priority-effort-d8u {
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0.35rem 32.65rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+
+          .auto-group-y8em-KXX {
+            width: 6rem;
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+            margin-right: 1.2rem;
+
+            .due-date-3yK {
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #2d41a7;
+              border-radius: 0.8rem;
+
+              .mon-bE9 {
+                left: 0.8rem;
+                font-size: 1.6rem;
+                font-weight: 600;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                width: 3rem;
+                position: absolute;
+                line-height: 1.2575;
+                color: #ffffff;
+                white-space: nowrap;
+                height: 2.1rem;
+                top: 0.8rem;
+              }
+              .rectangle-1-QxH {
+                top: 0.6rem;
+                background-color: #2d41a7;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+                width: 2.4rem;
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+              }
+            }
+            .rectangle-1-761 {
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #d9d9d9;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+            }
+          }
+          .rectangle-1-aEV {
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+          }
+        }
+        .project-or-client-5h3 {
+          flex-shrink: 0;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+        }
+      }
+    }
+    .task-mJy {
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      flex-direction: column;
+      box-sizing: border-box;
+      width: 100%;
+      align-items: center;
+      display: flex;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+
+      .my-task-gB3 {
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin: 0rem 7.95rem 1.5rem 0rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+      }
+      .frame-1-AM7 {
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+        width: 100%;
+
+        .priority-effort-Guw {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0.35rem 30.55rem 0rem 0rem;
+          height: 3.5rem;
+
+          .auto-group-pkd3-zqw {
+            height: 100%;
+            position: relative;
+            flex-shrink: 0;
+            margin-right: 1.2rem;
+            width: 6rem;
+
+            .due-date-9D3 {
+              border-radius: 0.8rem;
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #ebb800;
+
+              .mon-tRX {
+                font-size: 1.6rem;
+                line-height: 1.2575;
+                color: #ffffff;
+                width: 3rem;
+                height: 2.1rem;
+                position: absolute;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                white-space: nowrap;
+                left: 0.8rem;
+                top: 0.8rem;
+                font-weight: 600;
+              }
+              .rectangle-1-ZXf {
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #ebb800;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+                width: 2.4rem;
+                height: 1.2rem;
+              }
+            }
+            .rectangle-1-fah {
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #ebb800;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+            }
+          }
+          .rectangle-1-ks3 {
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+          }
+        }
+        .project-or-client-23s {
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+        }
+      }
+    }
+    .task-ihP {
+      border-radius: 1.2rem;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+
+      .my-task-q1K {
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+      }
+      .frame-1-Zi1 {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-shrink: 0;
+
+        .priority-effort-hJR {
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0.35rem 29.15rem 0rem 0rem;
+          height: 3.5rem;
+
+          .auto-group-vrch-zoK {
+            position: relative;
+            flex-shrink: 0;
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+
+            .due-date-LMP {
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+              background-color: #e42c5f;
+              border-radius: 0.8rem;
+
+              .mon-gRF {
+                position: absolute;
+                top: 0.8rem;
+                line-height: 1.2575;
+                color: #ffffff;
+                width: 3rem;
+                left: 0.8rem;
+                font-size: 1.6rem;
+                font-weight: 600;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                white-space: nowrap;
+                height: 2.1rem;
+              }
+              .rectangle-1-7WZ {
+                width: 2.4rem;
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #e42c5f;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+              }
+            }
+            .rectangle-1-pfs {
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #e42c5f;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+            }
+          }
+          .rectangle-1-L8R {
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+          }
+        }
+        .project-or-client-DCD {
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+        }
+      }
+    }
+    .task-8a5 {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      background-color: #f4f2ff;
+      border-radius: 1.2rem;
+
+      .my-task-4Tj {
+        color: #000000;
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-bottom: 1.5rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.3025;
+      }
+      .frame-1-ZfP {
+        flex-shrink: 0;
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+
+        .priority-effort-K8m {
+          align-items: center;
+          flex-shrink: 0;
+          margin: 0.35rem 27.45rem 0rem 0rem;
+          height: 3.5rem;
+          display: flex;
+
+          .auto-group-g1db-bry {
+            flex-shrink: 0;
+            margin-right: 1.2rem;
+            width: 6rem;
+            height: 100%;
+            position: relative;
+
+            .due-date-9Nh {
+              background-color: #e42c5f;
+              border-radius: 0.8rem;
+              width: 4.8rem;
+              height: 3.5rem;
+              position: absolute;
+              left: 0;
+              top: 0;
+
+              .mon-Euw {
+                top: 0.8rem;
+                font-weight: 600;
+                font-family: SF Pro Display, 'Source Sans Pro';
+                width: 3rem;
+                position: absolute;
+                left: 0.8rem;
+                font-size: 1.6rem;
+                line-height: 1.2575;
+                color: #ffffff;
+                white-space: nowrap;
+                height: 2.1rem;
+              }
+              .rectangle-1-7Tw {
+                width: 2.4rem;
+                height: 1.2rem;
+                position: absolute;
+                left: 0;
+                top: 0.6rem;
+                background-color: #e42c5f;
+                border-radius: 0 0.4rem 0.4rem 2.4rem;
+              }
+            }
+            .rectangle-1-pdF {
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 3.6rem;
+              top: 0.6rem;
+              background-color: #e42c5f;
+            }
+          }
+          .rectangle-1-JYR {
+            margin-bottom: 1.1rem;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+        .project-or-client-pFs {
+          text-align: right;
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.3025;
+          color: #2b1887;
+          font-family: DM Sans, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+      }
+    }
+  }
+}

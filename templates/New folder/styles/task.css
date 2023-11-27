@@ -1,0 +1,113 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 51.25rem;
+}.task-3xD {
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: #f4f2ff;
+  border-radius: 1.2rem;
+}
+.task-3xD .my-task-6vV {
+  margin-bottom: 1.5rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3025;
+  color: #000000;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.task-3xD .frame-1-AvM {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy {
+  margin: 0.35rem 11.55rem 0rem 0rem;
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .auto-group-fkjb-9GV {
+  margin-right: 1.2rem;
+  width: 6rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .auto-group-fkjb-9GV .due-date-3cm {
+  width: 4.8rem;
+  height: 3.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #2d41a7;
+  border-radius: 0.8rem;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .auto-group-fkjb-9GV .due-date-3cm .mon-Nuw {
+  width: 3rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0.8rem;
+  top: 0.8rem;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .auto-group-fkjb-9GV .due-date-3cm .rectangle-1-rKK {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 0;
+  top: 0.6rem;
+  background-color: #2d41a7;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .auto-group-fkjb-9GV .rectangle-1-jtu {
+  width: 2.4rem;
+  height: 1.2rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 0.6rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+}
+.task-3xD .frame-1-AvM .priority-effort-Scy .rectangle-1-27K {
+  margin-bottom: 1.1rem;
+  width: 2.4rem;
+  height: 1.2rem;
+  background-color: #d9d9d9;
+  border-radius: 0 0.4rem 0.4rem 2.4rem;
+  flex-shrink: 0;
+}
+.task-3xD .frame-1-AvM .project-or-client-WoB {
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.3025;
+  color: #2b1887;
+  font-family: DM Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

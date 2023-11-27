@@ -1,0 +1,1105 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.components-BFX {
+  height: 96rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #2b1887;
+  border-radius: 2.4rem;
+  width: 100%;
+
+  .task-dtD {
+    box-sizing: border-box;
+    width: 43.7rem;
+    height: 12.6rem;
+    top: 41.3rem;
+    padding: 2.4rem 2.4rem 1.65rem 2.4rem;
+    position: absolute;
+    left: 88.7rem;
+    background-color: #f4f2ff;
+    border-radius: 1.2rem;
+
+    .my-task-gbb {
+      color: #000000;
+      font-family: DM Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      margin-bottom: 1.5rem;
+      font-size: 2.4rem;
+      font-weight: 700;
+      line-height: 1.3025;
+    }
+    .frame-1-7wo {
+      align-items: flex-start;
+      width: 100%;
+      display: flex;
+
+      .priority-effort-fyK {
+        align-items: center;
+        flex-shrink: 0;
+        margin: 0.35rem 11.3rem 0rem 0rem;
+        height: 3.5rem;
+        display: flex;
+
+        .auto-group-wbpx-yDK {
+          width: 6rem;
+          height: 100%;
+          position: relative;
+          flex-shrink: 0;
+          margin-right: 1.2rem;
+
+          .due-date-K2H {
+            width: 4.8rem;
+            height: 3.5rem;
+            position: absolute;
+            left: 0;
+            top: 0;
+            background-color: #e42c5f;
+            border-radius: 0.8rem;
+
+            .mon-2hP {
+              top: 0.8rem;
+              font-family: SF Pro Display, 'Source Sans Pro';
+              width: 3rem;
+              height: 2.1rem;
+              position: absolute;
+              left: 0.8rem;
+              font-size: 1.6rem;
+              font-weight: 600;
+              line-height: 1.2575;
+              color: #ffffff;
+              white-space: nowrap;
+            }
+            .rectangle-1-hHj {
+              background-color: #e42c5f;
+              border-radius: 0 0.4rem 0.4rem 2.4rem;
+              width: 2.4rem;
+              height: 1.2rem;
+              position: absolute;
+              left: 0;
+              top: 0.6rem;
+            }
+          }
+          .rectangle-1-MNH {
+            width: 2.4rem;
+            height: 1.2rem;
+            position: absolute;
+            left: 3.6rem;
+            top: 0.6rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+          }
+        }
+        .rectangle-1-FTf {
+          border-radius: 0 0.4rem 0.4rem 2.4rem;
+          flex-shrink: 0;
+          margin-bottom: 1.1rem;
+          width: 2.4rem;
+          height: 1.2rem;
+          background-color: #e42c5f;
+        }
+      }
+      .project-or-client-ZjF {
+        font-family: DM Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        text-align: right;
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.3025;
+        color: #2b1887;
+      }
+    }
+  }
+  .effort-links-Qjs {
+    top: 30.2rem;
+    align-items: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 1.6rem;
+    width: 5.6rem;
+    height: 17.6rem;
+    left: 54.7rem;
+    position: absolute;
+    row-gap: 1.6rem;
+    display: flex;
+    border: dashed 0.1rem #9747ff;
+    border-radius: 0.5rem;
+
+    .property-1default-4Jd {
+      box-sizing: border-box;
+      padding: 0.6rem 0;
+      width: 100%;
+      flex-shrink: 0;
+
+      .rectangle-1-c5F {
+        width: 100%;
+        height: 1.2rem;
+        background-color: #d9d9d9;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+      }
+    }
+    .property-1high-gL1 {
+      padding: 0.6rem 0;
+      width: 100%;
+      flex-shrink: 0;
+      box-sizing: border-box;
+
+      .rectangle-1-2uf {
+        width: 100%;
+        height: 1.2rem;
+        background-color: #e42c5f;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+      }
+    }
+    .property-1medium-4bT {
+      box-sizing: border-box;
+      padding: 0.6rem 0;
+      width: 100%;
+      flex-shrink: 0;
+
+      .rectangle-1-1mb {
+        width: 100%;
+        height: 1.2rem;
+        background-color: #ebb800;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+      }
+    }
+    .property-1low-YWd {
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 0.6rem 0;
+      width: 100%;
+
+      .rectangle-1-WCZ {
+        height: 1.2rem;
+        background-color: #2d41a7;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+        width: 100%;
+      }
+    }
+  }
+  .priority-effort-D6y {
+    position: absolute;
+    left: 65.1rem;
+    align-items: center;
+    display: flex;
+    box-sizing: border-box;
+    height: 47.5rem;
+    top: 30.2rem;
+    row-gap: 1.6rem;
+    flex-direction: column;
+    border: dashed 0.1rem #9747ff;
+    border-radius: 0.5rem;
+    padding: 1.6rem;
+    width: 18.8rem;
+
+    .priority-high-effort-level-hard-r9w {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-BCD {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-uP7 {
+          background-color: #e42c5f;
+          border-radius: 0.8rem;
+          line-height: 1.2575;
+          display: flex;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          align-items: center;
+          flex-shrink: 0;
+          width: 4.8rem;
+          font-weight: 600;
+          color: #ffffff;
+          white-space: nowrap;
+          justify-content: center;
+          height: 100%;
+          font-size: 1.6rem;
+        }
+        .auto-group-zfi1-kPj {
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+
+          .rectangle-1-1aZ {
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+          .rectangle-1-Xoo {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-Svm {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .priority-high-effort-level-moderate-KUm {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-G97 {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-28H {
+          align-items: center;
+          border-radius: 0.8rem;
+          width: 4.8rem;
+          line-height: 1.2575;
+          display: flex;
+          height: 100%;
+          font-weight: 600;
+          background-color: #e42c5f;
+          white-space: nowrap;
+          flex-shrink: 0;
+          font-size: 1.6rem;
+          color: #ffffff;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          justify-content: center;
+        }
+        .auto-group-dssb-tRP {
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+
+          .rectangle-1-Qed {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-Whf {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-yr9 {
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+          }
+        }
+      }
+    }
+    .priority-high-effort-level-easy-tCR {
+      flex-shrink: 0;
+      width: 100%;
+      height: 3.5rem;
+
+      .priority-effort-q7f {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-Ynm {
+          white-space: nowrap;
+          background-color: #e42c5f;
+          font-size: 1.6rem;
+          line-height: 1.2575;
+          display: flex;
+          align-items: center;
+          width: 4.8rem;
+          height: 100%;
+          font-weight: 600;
+          color: #ffffff;
+          justify-content: center;
+          border-radius: 0.8rem;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          flex-shrink: 0;
+        }
+        .auto-group-3czm-pkH {
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+
+          .rectangle-1-x5o {
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #e42c5f;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+          }
+          .rectangle-1-UK3 {
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+          .rectangle-1-a7B {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .priority-medium-effort-level-hard-fuK {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-DR3 {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-mhT {
+          align-items: center;
+          background-color: #ebb800;
+          border-radius: 0.8rem;
+          flex-shrink: 0;
+          line-height: 1.2575;
+          color: #ffffff;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          font-size: 1.6rem;
+          height: 100%;
+          display: flex;
+          justify-content: center;
+          width: 4.8rem;
+          font-weight: 600;
+          white-space: nowrap;
+        }
+        .auto-group-rods-cxy {
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+
+          .rectangle-1-vCy {
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+          .rectangle-1-2Wu {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-Wgy {
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+        }
+      }
+    }
+    .priority-medium-effort-level-moderate-Ecy {
+      height: 3.5rem;
+      flex-shrink: 0;
+      width: 100%;
+
+      .priority-effort-yaZ {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        width: 100%;
+
+        .due-date-HbF {
+          white-space: nowrap;
+          background-color: #ebb800;
+          width: 4.8rem;
+          height: 100%;
+          line-height: 1.2575;
+          color: #ffffff;
+          align-items: center;
+          font-size: 1.6rem;
+          font-weight: 600;
+          border-radius: 0.8rem;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          display: flex;
+          justify-content: center;
+          flex-shrink: 0;
+        }
+        .auto-group-kmpu-L3j {
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+
+          .rectangle-1-3iq {
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+          .rectangle-1-NFK {
+            height: 1.2rem;
+            background-color: #ebb800;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+          }
+          .rectangle-1-2am {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+    .priority-medium-effort-level-easy-Yp1 {
+      flex-shrink: 0;
+      width: 100%;
+      height: 3.5rem;
+
+      .priority-effort-J2V {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+
+        .due-date-qHK {
+          justify-content: center;
+          font-size: 1.6rem;
+          color: #ffffff;
+          display: flex;
+          align-items: center;
+          font-weight: 600;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          line-height: 1.2575;
+          white-space: nowrap;
+          border-radius: 0.8rem;
+          width: 4.8rem;
+          height: 100%;
+          background-color: #ebb800;
+          flex-shrink: 0;
+        }
+        .auto-group-vkzq-KyB {
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .rectangle-1-nbs {
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #ebb800;
+          }
+          .rectangle-1-iVX {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-Dx5 {
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+          }
+        }
+      }
+    }
+    .priority-low-effort-level-hard-L17 {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-TbX {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-pS5 {
+          width: 4.8rem;
+          font-size: 1.6rem;
+          display: flex;
+          height: 100%;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          justify-content: center;
+          border-radius: 0.8rem;
+          line-height: 1.2575;
+          color: #ffffff;
+          white-space: nowrap;
+          align-items: center;
+          background-color: #2d41a7;
+          font-weight: 600;
+          flex-shrink: 0;
+        }
+        .auto-group-nigh-Vo7 {
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+
+          .rectangle-1-CSd {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-ivm {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-QYh {
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+          }
+        }
+      }
+    }
+    .priority-low-effort-level-moderate-w2q {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-TWy {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-cem {
+          line-height: 1.2575;
+          align-items: center;
+          flex-shrink: 0;
+          height: 100%;
+          font-size: 1.6rem;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          background-color: #2d41a7;
+          border-radius: 0.8rem;
+          width: 4.8rem;
+          font-weight: 600;
+          white-space: nowrap;
+          justify-content: center;
+          color: #ffffff;
+          display: flex;
+        }
+        .auto-group-bjvp-sah {
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+
+          .rectangle-1-N1f {
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+          }
+          .rectangle-1-HuK {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-14d {
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+            width: 2.4rem;
+            height: 1.2rem;
+          }
+        }
+      }
+    }
+    .priority-low-effort-level-easy-uQu {
+      width: 100%;
+      height: 3.5rem;
+      flex-shrink: 0;
+
+      .priority-effort-TBX {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+
+        .due-date-caD {
+          font-size: 1.6rem;
+          font-weight: 600;
+          color: #ffffff;
+          justify-content: center;
+          background-color: #2d41a7;
+          flex-shrink: 0;
+          line-height: 1.2575;
+          align-items: center;
+          height: 100%;
+          font-family: SF Pro Display, 'Source Sans Pro';
+          border-radius: 0.8rem;
+          width: 4.8rem;
+          white-space: nowrap;
+          display: flex;
+        }
+        .auto-group-7ryk-hLm {
+          column-gap: 1.2rem;
+          align-items: center;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 1.15rem 0rem 1.15rem 1.2rem;
+          height: 100%;
+          display: flex;
+
+          .rectangle-1-cyX {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #2d41a7;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-kZw {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+          .rectangle-1-zz5 {
+            width: 2.4rem;
+            height: 1.2rem;
+            background-color: #d9d9d9;
+            border-radius: 0 0.4rem 0.4rem 2.4rem;
+            flex-shrink: 0;
+          }
+        }
+      }
+    }
+  }
+  .due-date-Vfw {
+    width: 42.3rem;
+    height: 6.7rem;
+    position: absolute;
+    left: 88.7rem;
+    column-gap: 1.5rem;
+    align-items: center;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+    padding: 1.6rem;
+    top: 30.2rem;
+    display: flex;
+    border: dashed 0.1rem #9747ff;
+
+    .due-datemon-AXB {
+      height: 100%;
+      flex-shrink: 0;
+      width: 4.8rem;
+
+      .due-date-XMj {
+        width: 100%;
+        font-size: 1.6rem;
+        line-height: 1.2575;
+        color: #ffffff;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        height: 100%;
+        font-weight: 600;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        justify-content: center;
+        background-color: #5d5fef;
+        border-radius: 0.8rem;
+      }
+    }
+    .due-datetue-35B {
+      width: 4.2rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .due-date-mms {
+        font-size: 1.6rem;
+        color: #ffffff;
+        align-items: center;
+        justify-content: center;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        white-space: nowrap;
+        display: flex;
+        background-color: #5d5fef;
+        width: 100%;
+        height: 100%;
+        font-weight: 600;
+        line-height: 1.2575;
+        border-radius: 0.8rem;
+      }
+    }
+    .due-datewed-dZB {
+      width: 4.9rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .due-date-PYM {
+        font-weight: 600;
+        line-height: 1.2575;
+        color: #ffffff;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        width: 100%;
+        height: 100%;
+        border-radius: 0.8rem;
+        justify-content: center;
+        background-color: #5d5fef;
+        font-size: 1.6rem;
+        white-space: nowrap;
+      }
+    }
+    .due-datethu-gnM {
+      width: 4.4rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .due-date-qv9 {
+        white-space: nowrap;
+        border-radius: 0.8rem;
+        width: 100%;
+        color: #ffffff;
+        font-weight: 600;
+        line-height: 1.2575;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        font-size: 1.6rem;
+        background-color: #5d5fef;
+      }
+    }
+    .due-datefri-9A9 {
+      height: 100%;
+      flex-shrink: 0;
+      width: 3.4rem;
+
+      .due-date-4nu {
+        font-size: 1.6rem;
+        font-weight: 600;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        line-height: 1.2575;
+        color: #ffffff;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        white-space: nowrap;
+        display: flex;
+        background-color: #5d5fef;
+        border-radius: 0.8rem;
+        width: 100%;
+      }
+    }
+    .due-datesat-8nm {
+      width: 4rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .due-date-tmw {
+        font-family: SF Pro Display, 'Source Sans Pro';
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        background-color: #5d5fef;
+        width: 100%;
+        color: #ffffff;
+        font-weight: 600;
+        line-height: 1.2575;
+        align-items: center;
+        border-radius: 0.8rem;
+        height: 100%;
+        font-size: 1.6rem;
+      }
+    }
+    .due-datesun-DJR {
+      width: 4.4rem;
+      height: 100%;
+      flex-shrink: 0;
+
+      .due-date-kJM {
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        background-color: #5d5fef;
+        width: 100%;
+        height: 100%;
+        font-weight: 600;
+        font-family: SF Pro Display, 'Source Sans Pro';
+        align-items: center;
+        border-radius: 0.8rem;
+        font-size: 1.6rem;
+        line-height: 1.2575;
+        color: #ffffff;
+      }
+    }
+  }
+  .link-3YM {
+    left: 8rem;
+    top: 30.2rem;
+    box-sizing: border-box;
+    padding: 0.6rem 0;
+    width: 2.4rem;
+    height: 2.4rem;
+    position: absolute;
+
+    .rectangle-1-ZFo {
+      border-radius: 0 0.4rem 0.4rem 2.4rem;
+      width: 100%;
+      height: 1.2rem;
+      background-color: #d9d9d9;
+    }
+  }
+  .priority-effort-6Fj {
+    display: flex;
+    align-items: center;
+    width: 15.6rem;
+    height: 3.5rem;
+    position: absolute;
+    left: 15.2rem;
+    top: 30.2rem;
+
+    .due-date-oA9 {
+      flex-shrink: 0;
+      width: 4.8rem;
+      font-family: SF Pro Display, 'Source Sans Pro';
+      white-space: nowrap;
+      justify-content: center;
+      border-radius: 0.8rem;
+      height: 100%;
+      line-height: 1.2575;
+      align-items: center;
+      font-weight: 600;
+      background-color: #5d5fef;
+      font-size: 1.6rem;
+      color: #ffffff;
+      display: flex;
+    }
+    .auto-group-afmb-eRf {
+      align-items: center;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 1.15rem 0rem 1.15rem 1.2rem;
+      height: 100%;
+      display: flex;
+      column-gap: 1.2rem;
+
+      .rectangle-1-ZHj {
+        width: 2.4rem;
+        height: 1.2rem;
+        background-color: #e42c5f;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+        flex-shrink: 0;
+      }
+      .rectangle-1-SsK {
+        flex-shrink: 0;
+        width: 2.4rem;
+        height: 1.2rem;
+        background-color: #e42c5f;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+      }
+      .rectangle-1-9Wq {
+        width: 2.4rem;
+        height: 1.2rem;
+        background-color: #e42c5f;
+        border-radius: 0 0.4rem 0.4rem 2.4rem;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .due-date-3s7 {
+    height: 3.5rem;
+    font-family: SF Pro Display, 'Source Sans Pro';
+    align-items: center;
+    background-color: #5d5fef;
+    border-radius: 0.8rem;
+    display: flex;
+    width: 4.8rem;
+    position: absolute;
+    left: 35.6rem;
+    font-weight: 600;
+    line-height: 1.2575;
+    color: #ffffff;
+    top: 30.2rem;
+    font-size: 1.6rem;
+    white-space: nowrap;
+    justify-content: center;
+  }
+  .auto-group-abw1-FyB {
+    width: 64.3rem;
+    height: 4.1rem;
+    position: absolute;
+    left: 8rem;
+    top: 22.5rem;
+    display: flex;
+    align-items: center;
+
+    .master-components-xch {
+      color: #ffffff;
+      font-family: SF Pro Display, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-right: 19.2rem;
+      font-size: 3.2rem;
+      font-weight: 600;
+      line-height: 1.2575;
+    }
+    .components-5xD {
+      font-family: SF Pro Display, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 3.2rem;
+      font-weight: 600;
+      line-height: 1.2575;
+      color: #ffffff;
+    }
+  }
+  .casa-o7X {
+    padding: 1.6rem 4.2rem 1.2rem 2.12rem;
+    width: 59.6rem;
+    height: 8.9rem;
+    align-items: center;
+    border: solid 0.1rem #ffffff;
+    background-color: #2c43dd;
+    border-radius: 1.6rem;
+    box-sizing: border-box;
+    position: absolute;
+    left: 8rem;
+    top: 8rem;
+    display: flex;
+
+    .heroicons-mini-home-VW9 {
+      width: 4.16rem;
+      height: 4.16rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 2.12rem 0.4rem 0rem;
+    }
+    .casa-dos-components-MoF {
+      white-space: nowrap;
+      flex-shrink: 0;
+      font-size: 4.8rem;
+      font-weight: 600;
+      line-height: 1.2575;
+      color: #ffffff;
+      font-family: SF Pro Display, 'Source Sans Pro';
+    }
+  }
+  .edit-these-masters-and-they-will-update-all-the-regular-components-on-the-right-TrH {
+    height: 4.1rem;
+    left: 8rem;
+    font-size: 1.6rem;
+    line-height: 1.2575;
+    font-family: SF Pro Display, 'Source Sans Pro';
+    width: 35.8rem;
+    top: 36.7rem;
+    font-weight: 400;
+    color: #9a91c6;
+    position: absolute;
+  }
+  .logo-HqK {
+    left: 8rem;
+    top: 82.5rem;
+    display: flex;
+    align-items: center;
+    width: 24.0319rem;
+    height: 6.5rem;
+    position: absolute;
+
+    .g10-RRj {
+      margin-right: 1.9391rem;
+      width: 6.4928rem;
+      height: 6.5rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .text28-Lob {
+      font-family: Boston, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin-bottom: 0.0426rem;
+      font-size: 4.3596rem;
+      font-weight: 700;
+      line-height: 1.2575;
+      color: #017bff;
+    }
+  }
+}
